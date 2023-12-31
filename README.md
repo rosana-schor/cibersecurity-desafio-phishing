@@ -20,7 +20,7 @@
 
 ![Alt text](./passwd.png "Optional title")
 
-#Caso tenha dificuldades para fazer esse exercícío.
+# Caso tenha dificuldades para fazer esse exercícío.
 
 - Devido às atualizações dos browsers, esse Método de ataque 
 "Site Cloner" pode não funcionar.
@@ -29,4 +29,4 @@
 escolha opção "Google", essa ação gerará uma página de login do
 google falsa para obter as informações de login.
 
-![Alt text] (./Exercício.png "Phishing login Google")
+![Alt text](./Exercício.png "Phishing login Google")
